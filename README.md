@@ -5,19 +5,15 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий аналитик данных <img src="https://media.giphy.com/media/oPNq5A3IZC6bugJXeS/giphy.gif" width="30px">. Мой путь в it начался с работы в цифровом департаменте, где я выполнял задачи близкие к области системного анализа. Было много документов и совещаний. Захотелось поработать в коммерческой организации, развить свои компетенции, освоить современные инструменты. В 2023 году прошел обучающий курс "Аналитик данных" от karpov.courses. В настоящий момент прохожу курсы, которые находятся в свободном доступе, читаю профильную литературу. Мое обучение завершено и я нахожусь в поисках работы.
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
+Я начинающий аналитик данных. Мой путь в it начался с работы в цифровом департаменте, где я выполнял задачи близкие к области системного анализа. Было много документов и совещаний. Захотелось поработать в коммерческой организации, развить свои компетенции, освоить современные инструменты. В 2023 году прошел обучающий курс "Аналитик данных" от karpov.courses. В настоящий момент прохожу курсы, которые находятся в свободном доступе, читаю профильную литературу. Мое обучение завершено и я нахожусь в поисках работы.  
+<img src="https://media.giphy.com/media/oPNq5A3IZC6bugJXeS/giphy.gif" width="25px">
 - :construction_worker: Более четырех лет работал в ИТ в госсекторе.
 
 - :information_desk_person: Делал презентацию проекта на курсе [CDO от Innopolis University](https://edu.innopolis.university/cdo).
 
 - :zap: Защитил финальный проект по аналитике данных!
 
-- :mailbox_with_no_mail: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Petr_tr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:petertroitsky@gmail.com)
+- :mailbox_with_no_mail: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-petertroitsky-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Petr_tr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:petertroitsky@gmail.com)
 
 ---
 
@@ -28,8 +24,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-</div>
-<img src="https://www.svgviewer.dev/static-svgs/14592/tableau-icon.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+  <img src="https://www.svgviewer.dev/static-svgs/14592/tableau-icon.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div> 
 ---
 
