@@ -26,6 +26,7 @@
   <img src="https://www.svgrepo.com/show/353380/airflow.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://www.svgviewer.dev/static-svgs/14592/tableau-icon.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
 </div> 
+
 ---
 
 ### 💻 Пройденные курсы:
