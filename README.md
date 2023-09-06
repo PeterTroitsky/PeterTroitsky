@@ -9,7 +9,7 @@
 
 - :information_desk_person: Делал презентацию проекта на курсе CDO от Innopolis University.
 
-- :zap: Защитил финальный проект по аналитике данных!
+- :chart_with_upwards_trend: Защитил финальный проект по аналитике данных!
 
 - :mailbox_with_no_mail: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-petertroitsky-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Petr_tr) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:petertroitsky@gmail.com)
 
