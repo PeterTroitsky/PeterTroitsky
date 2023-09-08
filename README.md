@@ -29,14 +29,14 @@
 
 ### :books: Пройденные курсы:
 
-|                                | 
-| ------------------------------------------------------------------| 
-| stepik.org/Jira: ведение задач на электронных досках              |       
-| karpov.courses/Симулятор SQL                                      |              
-| karpov.courses/Аналитик данных                                    | 
-| stepik.org/Программирование на Python                             | 
-| stepik.org/Основы статистики                                      | 
-| [innopolis.university](https://edu.innopolis.university/cdo)/Управление, основанное на данных|
+| Name                                                              | Duration  | 
+| ------------------------------------------------------------------|:---------:| 
+| stepik.org/Jira: ведение задач на электронных досках              |6 hours        |        
+| karpov.courses/Симулятор SQL                                      |2 weeks        |            
+| karpov.courses/Аналитик данных                                    |5 months        | 
+| stepik.org/Программирование на Python                             |19 hours       | 
+| stepik.org/Основы статистики                                      |7 hours        | 
+| [innopolis.university](https://edu.innopolis.university/cdo)/Управление, основанное на данных|120 hours      | 
 
 ---
 
